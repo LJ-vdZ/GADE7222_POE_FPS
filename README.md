@@ -1,3 +1,2 @@
-# GADE7222_POE_FPS
-
-Developed with Unreal Engine 5
+# GADE7222_POE_Part_1
+Developing a FPS game

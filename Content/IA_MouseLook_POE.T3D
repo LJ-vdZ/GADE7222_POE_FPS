@@ -1,0 +1,4 @@
+Begin Object Class=/Script/EnhancedInput.InputAction Name="IA_MouseLook_POE" ExportPath="/Script/EnhancedInput.InputAction'/Game/Input/IA_MouseLook_POE.IA_MouseLook_POE'"
+   ActionDescription=NSLOCTEXT("[26A7443C8C1E5502BED4AE023B71CCD4]", "CB1C9A9E4FF9C16438D1CBBEDFC2E852", "to look")
+   ValueType=Axis2D
+End Object

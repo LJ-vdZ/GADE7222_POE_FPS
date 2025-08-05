@@ -1,0 +1,3 @@
+Begin Object Class=/Script/EnhancedInput.InputAction Name="IA_Jump_POE" ExportPath="/Script/EnhancedInput.InputAction'/Game/Input/IA_Jump_POE.IA_Jump_POE'"
+   ActionDescription=NSLOCTEXT("[420253157DEF95E8D7BE5987BDE661EB]", "7CB064E44BBE05BB188C10A4A3C62266", "To Jump")
+End Object
